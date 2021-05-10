@@ -1,4 +1,4 @@
-# to start
+# to start the virtual envirnoment
 pip install virtualenv  
 virtualenv venv  
 source venv/bin/activate  

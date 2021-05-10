@@ -3,7 +3,8 @@ pip install virtualenv
 virtualenv venv  
 source venv/bin/activate  
 
-
+### first try with proper git hub and vsc
+https://www.youtube.com/watch?v=3Tn58KQvWtU
 
 # django-web-shortener
 website with two buttons, encode and decode with database support

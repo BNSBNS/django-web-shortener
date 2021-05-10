@@ -1,3 +1,10 @@
+# to start
+pip install virtualenv  
+virtualenv venv  
+source venv/bin/activate  
+
+
+
 # django-web-shortener
 website with two buttons, encode and decode with database support
 

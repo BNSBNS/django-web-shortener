@@ -23,3 +23,6 @@ Will encode and decode using that, storing to the database and retrieving
 
 
 # Scalability considerations  
+
+
+# multi threading? more then 1 user accessing at same time  

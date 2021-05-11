@@ -26,3 +26,7 @@ Will encode and decode using that, storing to the database and retrieving
 
 
 # multi threading? more then 1 user accessing at same time  
+
+
+## django infra
+![image](https://user-images.githubusercontent.com/38092740/117798897-291b1500-b284-11eb-90fb-49c9957a8eac.png)

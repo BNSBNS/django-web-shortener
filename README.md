@@ -14,8 +14,13 @@ website with two buttons, encode and decode with database support
 Will encode and decode using that, storing to the database and retrieving
 
 
-# Database considerations  
-
+# Database considerations    
+https://www.xplenty.com/blog/the-sql-vs-nosql-difference/  
+SQL databases are relational, NoSQL are non-relational.    
+SQL databases use structured query language and have a predefined schema. NoSQL databases have dynamic schemas for unstructured data.  
+SQL databases are vertically scalable, NoSQL databases are horizontally scalable.  
+SQL databases are table based, while NoSQL databases are document, key-value, graph or wide-column stores.  
+SQL databases are better for multi-row transactions, NoSQL are better for unstructured data like documents or JSON.  
 
 
 # Zookeeper?  
@@ -26,6 +31,9 @@ Will encode and decode using that, storing to the database and retrieving
 
 
 # multi threading? more then 1 user accessing at same time  
+
+# testing approach
+https://stackoverflow.com/questions/520064/what-are-unit-tests-integration-tests-smoke-tests-and-regression-tests
 
 
 ## django infra

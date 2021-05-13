@@ -38,3 +38,6 @@ https://stackoverflow.com/questions/520064/what-are-unit-tests-integration-tests
 
 ## django infra
 ![image](https://user-images.githubusercontent.com/38092740/117798897-291b1500-b284-11eb-90fb-49c9957a8eac.png)
+
+## python
+https://stackoverflow.com/questions/986006/how-do-i-pass-a-variable-by-reference
